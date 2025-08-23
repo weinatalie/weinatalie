@@ -1,4 +1,4 @@
-Currently & previously...
+**Currently & previously...**
 * CS at UC Berkeley
 * product at Stripe
 

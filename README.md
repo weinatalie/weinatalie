@@ -1,6 +1,6 @@
 ## hello, i'm natalie! ⭐️
 
-currently, i'm studying computer science at uc berkeley. i'm interested in democratizing technology through meaningful product work.
+i currently study computer science at uc berkeley. i'm interested in democratizing technology through meaningful product work.
 
 ### previously
 ⚡️ designed and implemented back-end infrastructure at [stripe](https://stripe.com/financial-accounts/platforms)  

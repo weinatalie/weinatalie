@@ -1,4 +1,4 @@
-## hello, i'm natalie! ⭐️
+## hi, i'm natalie! ⭐️
 
 i currently study computer science at uc berkeley. i'm interested in democratizing technology through meaningful product work.
 

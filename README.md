@@ -3,7 +3,7 @@
 i currently study computer science at uc berkeley. i'm interested in democratizing technology through meaningful product work.
 
 ### previously
-⚡️ designed and implemented back-end infrastructure at [stripe](https://stripe.com/financial-accounts/platforms)  
+⚡️ built apis and back-end infrastructure at [stripe](https://stripe.com/financial-accounts/platforms)  
 📚 taught upper division [computer graphics](https://cs184.eecs.berkeley.edu/su25/) and [computer vision](https://cal-cs180.github.io/fa25/)
 
 ### tech stack

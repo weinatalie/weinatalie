@@ -16,4 +16,4 @@ src="https://camo.githubusercontent.com/18c1d28951104e3dbf342dcaae38b07f65c95f04
 
 ### find me
 📩 [nataliewei@berkeley.edu](mailto:nataliewei@berkeley.edu)  
-🌐 [linkedin](https://www.linkedin.com/in/natalie-wei/)
+🔗 [linkedin](https://www.linkedin.com/in/natalie-wei/)

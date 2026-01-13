@@ -1,9 +1,9 @@
 ## hi, i'm natalie! ⭐️
 
-i currently study computer science at uc berkeley. i'm interested in democratizing technology through meaningful product work.
+i currently study computer science at uc berkeley. i'm interested in democratizing technology through thoughtful product work.
 
 ### previously
-⚡️ built apis and back-end infrastructure at [stripe](https://stripe.com/financial-accounts/platforms)  
+⚡️ built back-end infrastructure for user balances at [stripe](https://stripe.com/financial-accounts/platforms)  
 📚 taught upper division [computer graphics](https://cs184.eecs.berkeley.edu/su25/) and [computer vision](https://cal-cs180.github.io/fa25/)
 
 ### tech stack
@@ -14,6 +14,6 @@ src="https://camo.githubusercontent.com/ef2b7d0db96aa537dfc682bc36181a27a9152e23
 src="https://camo.githubusercontent.com/5024e1f56ad8fa2d351944bc77e84dcb487a7a610a11fdfe49bce050e70568ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d2532333434384146463f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" /> <img
 src="https://camo.githubusercontent.com/18c1d28951104e3dbf342dcaae38b07f65c95f0401e5de36aa560f6073db149e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
 
-### find me
+### links
 📩 [nataliewei@berkeley.edu](mailto:nataliewei@berkeley.edu)  
 🔗 [linkedin](https://www.linkedin.com/in/natalie-wei/)

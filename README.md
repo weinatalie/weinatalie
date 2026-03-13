@@ -1,7 +1,5 @@
 ## hi, i'm natalie! ⭐️
 
-i study computer science at uc berkeley. i'm interested in democratizing technology through meaningful product work.
-
 ### previously
 ⚡️ built back-end infrastructure for user balances at [stripe](https://stripe.com/financial-accounts/platforms)  
 📚 taught upper division [computer graphics](https://cs184.eecs.berkeley.edu/su25/) and [computer vision](https://cal-cs180.github.io/fa25/)

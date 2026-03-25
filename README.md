@@ -1,4 +1,4 @@
-<img align="left" src="https://i.pinimg.com/originals/99/ba/bd/99babd603ba2f06304fab44d5108d47f.gif" width="270">
+<!-- <img align="left" src="" width="270"> -->
 
 ### hi, i'm natalie!
 
